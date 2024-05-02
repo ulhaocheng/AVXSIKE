@@ -39,7 +39,7 @@ implementation AVXSIKE-HT.
 ```
 
 ## Paper
-A paper describing various implementations in library has been published in
+A paper describing the various implementations in library has been published in
 *IACR Transactions on Cryptographic Hardware and Embedded Systems, 2022(2),
 41-68*.
 
